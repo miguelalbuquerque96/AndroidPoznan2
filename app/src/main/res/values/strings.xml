@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FirstHomeWork</string>
+    <string name="action_settings">Settings</string>
+    <string name="CHANGE_BACKGROUND">CHANGE BACKGROUND</string>
+    <string name="CHANGE_BUTTONS">CHANGE BUTTONS</string>
+    <string name="CHANGE_FONT">CHANGE FONT</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">cancel</string>
+    <string-array name="myImageArray">
+
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>mangenta</item>
+        <item>black</item>
+
+    </string-array>
+    <string name="title_activity_second">SecondActivity</string>
+
+
+</resources>
